@@ -1,6 +1,9 @@
+artifacts_root: artifacts
 
-## Workflows
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_url: 
+  local_data_fil: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
 
-update config.yaml
-update schema.yaml
-update params.yaml
+  
