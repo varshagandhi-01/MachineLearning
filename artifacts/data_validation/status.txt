@@ -1,0 +1,12 @@
+validation status fixed acidity: True
+validation status volatile acidity: True
+validation status citric acid: True
+validation status residual sugar: True
+validation status chlorides: True
+validation status free sulfur dioxide: True
+validation status total sulfur dioxide: True
+validation status density: True
+validation status pH: True
+validation status sulphates: True
+validation status alcohol: True
+validation status quality: True
